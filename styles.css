@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    text-align: center; 
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    font-family: sans-serif;
+}
+ul 
+line-height: 40px;
+}
+ /* Types of CSS Selectors 
+ 1. Element selectors
+ 2. Attribute selectors
+ 3. ID Selectors
+ 4. Psuedo comment selector
+ 5. ID selectors */
+
