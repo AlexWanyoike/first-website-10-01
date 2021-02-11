@@ -1,14 +1,19 @@
 h1 {
     color: blue;
     text-align: center; 
+    text-decoration: underline;
 }
 h2 {
     color: green;
-    font-style: italic;
+    font-style: center;
     text-align: center;
 }
 p {
     font-family: sans-serif;
+}
+h3{
+    color: maroon;
+    text-decoration: underline;
 }
 ul 
 line-height: 40px;
